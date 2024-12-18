@@ -329,7 +329,7 @@ engines:
   - name: baidu
     engine: baidu
     shortcut: baidu
-    disabled: false
+    disabled: true
 
   - name: 9gag
     engine: 9gag

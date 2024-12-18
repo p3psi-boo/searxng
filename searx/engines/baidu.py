@@ -29,7 +29,6 @@ base_url = "https://www.baidu.com/s"
 
 
 def request(query, params):
-
     keyword = query.strip()
 
     query_params = {"wd": keyword, "rn": 20, "pn": params["pageno"], "tn": "json"}
