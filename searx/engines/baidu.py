@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
-"""Baidu is a Chinese multinational technology company specializing in Internet-related services and products and artificial intelligence.
+"""Baidu
 
 .. Website: https://www.baidu.com
 """
